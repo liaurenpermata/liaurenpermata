@@ -33,7 +33,6 @@ Currently, I am open to any opportunity especially in IT as Front-End Developer 
 ![image](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 
-![image](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
 
 ### <details><summary>Stats:</summary></details>
 ![Liauren Permata's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaurenpermata&show_icons=true&theme=swift)
