@@ -37,8 +37,6 @@ Currently, I am open to any opportunity especially in IT as Front-End Developer 
 ### <details><summary>Stats:</summary></details>
 ![Liauren Permata's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaurenpermata&show_icons=true&theme=swift)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaurenpermata&layout=compact)](https://github.com/liaurenpermata/github-readme-stats)
-
 
 
 ### <details><summary>Contact Me</summary></details>
