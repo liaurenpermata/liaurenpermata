@@ -41,5 +41,4 @@ Currently, I am open to any opportunity especially in IT as Front-End Developer 
 
 ### <details><summary>Contact Me</summary></details>
 [![Linkedin](https://img.shields.io/badge/LiaurenPermataSari-black?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liauren-permata-sari/)
-[![Instagram](https://img.shields.io/badge/monaliauwps-black?logo=instagram&logoColor=white)](https://www.instagram.com/monaliauw/)
 [![Instagram](https://img.shields.io/badge/liaurenpermata@gmail.com-black?logo=gmail&logoColor=white)](https://mail.google.com/)
