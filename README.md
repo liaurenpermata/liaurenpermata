@@ -33,12 +33,6 @@ Currently, I am open to any opportunity especially in IT as Front-End Developer 
 ![image](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 
-
-### <details><summary>Stats:</summary></details>
-![Liauren Permata's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaurenpermata&show_icons=true&theme=swift)
-
-
-
 ### <details><summary>Contact Me</summary></details>
 [![Linkedin](https://img.shields.io/badge/LiaurenPermataSari-black?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liauren-permata-sari/)
 [![Instagram](https://img.shields.io/badge/liaurenpermata@gmail.com-black?logo=gmail&logoColor=white)](https://mail.google.com/)
