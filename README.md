@@ -38,4 +38,4 @@ Currently, I am open to any opportunity especially in IT as Front-End Developer 
 [![Instagram](https://img.shields.io/badge/liaurenpermata@gmail.com-black?logo=gmail&logoColor=white)](https://mail.google.com/)
 
 
-[![Lia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaurenpermata)](https://github.com/anuraghazra/github-readme-stats)
+[![Lia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaurenpermata)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical))
